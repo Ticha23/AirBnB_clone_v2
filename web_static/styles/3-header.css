@@ -1,0 +1,18 @@
+header {
+    background-color: white;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #050000;
+      
+  }
+  
+  .logo {
+    padding-left: 60px;
+    background-image: url("/home/mutwiri_gachanja/web_static/images/logo.png"); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 40px;
+  }
+  

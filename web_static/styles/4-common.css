@@ -1,0 +1,10 @@
+body {
+  margin: 50 auto;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 100opx;
+  margin: 0px auto;
+}
+
