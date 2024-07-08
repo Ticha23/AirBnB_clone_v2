@@ -1,0 +1,1 @@
+"0x02. AirBnB clone - MySQL" is a project where you learn to store all the information about these homes, users, and bookings in a MySQL database. MySQL is like a big, organized notebook on a computer where you can save and find lots of information quickly. This project helps you learn how to use MySQL to make sure everything on your website works well and is stored correctly.
